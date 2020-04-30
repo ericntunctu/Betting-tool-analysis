@@ -7,6 +7,6 @@
 
 ![原理說明](https://github.com/ericntunctu/Betting-tool-analysis/blob/master/94597342_231750008166903_4060579669253029888_n.png)
 
-Next step
-Using oddsportal Scraper
-See my youtube channel
+Next step Using oddsportal Scraper. See my youtube channel.
+
+請勿用作不法用途
